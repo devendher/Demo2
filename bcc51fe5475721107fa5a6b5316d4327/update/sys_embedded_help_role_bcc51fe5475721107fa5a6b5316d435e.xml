@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_resource_o_0.user" name="x_snc_resource_o_0.user">bcc51fe5475721107fa5a6b5316d435d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-08 08:54:16</sys_created_on>
+        <sys_id>bcc51fe5475721107fa5a6b5316d435e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bcc51fe5475721107fa5a6b5316d435d</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bcc51fe5475721107fa5a6b5316d435e</sys_update_name>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-08 08:54:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

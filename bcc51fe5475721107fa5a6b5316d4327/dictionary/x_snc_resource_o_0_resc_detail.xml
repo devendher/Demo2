@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8d869f29475721107fa5a6b5316d439d" label="Resc Detail" max_length="40" name="x_snc_resource_o_0_resc_detail" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gender" max_length="40" name="gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Role" max_length="40" name="role" type="string"/>
+        <element label="Years of Exp" max_length="40" name="years_of_exp" type="integer"/>
+    </element>
+</database>

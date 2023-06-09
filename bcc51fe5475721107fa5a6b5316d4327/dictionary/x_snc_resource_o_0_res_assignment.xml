@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="67d7532d475721107fa5a6b5316d4392" label="Res Assignment" max_length="40" name="x_snc_resource_o_0_res_assignment" type="collection">
+        <element label="Account Name" max_length="40" name="account_name" type="string"/>
+        <element label="Account Number" max_length="40" name="account_number" type="string"/>
+        <element label="Bank Address" max_length="40" name="bank_address" type="string"/>
+        <element label="Bank Name" max_length="40" name="bank_name" type="string"/>
+        <element label="Mobile Telephone Number" max_length="40" name="mobile_telephone_number" type="integer"/>
+        <element label="Nationality" max_length="40" name="nationality" type="string"/>
+        <element label="NI Number" max_length="40" name="ni_number" type="string"/>
+    </element>
+</database>
