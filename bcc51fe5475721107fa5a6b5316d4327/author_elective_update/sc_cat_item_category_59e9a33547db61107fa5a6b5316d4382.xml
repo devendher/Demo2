@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Onboard Resource">44f8efb147db61107fa5a6b5316d43e9</sc_cat_item>
+        <sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-09 05:00:41</sys_created_on>
+        <sys_id>59e9a33547db61107fa5a6b5316d4382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Onboard Resource</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_update_name>sc_cat_item_category_59e9a33547db61107fa5a6b5316d4382</sys_update_name>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:00:41</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</application>
+        <file_path/>
+        <instance_id>444227f3db4aa59042b321c405961994</instance_id>
+        <instance_name>aespipelinesdev</instance_name>
+        <name>sc_cat_item_category_59e9a33547db61107fa5a6b5316d4382</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Onboard Resource">44f8efb147db61107fa5a6b5316d43e9</sc_cat_item><sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>demo.user</sys_created_by><sys_created_on>2023-06-09 05:00:41</sys_created_on><sys_id>59e9a33547db61107fa5a6b5316d4382</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Business Application Lifecycle Management.Onboard Resource</sys_name><sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package><sys_policy/><sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope><sys_update_name>sc_cat_item_category_59e9a33547db61107fa5a6b5316d4382</sys_update_name><sys_updated_by>demo.user</sys_updated_by><sys_updated_on>2023-06-09 05:00:41</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>918535901</payload_hash>
+        <record_name>Business Application Lifecycle Management.Onboard Resource</record_name>
+        <reverted_from/>
+        <source>6cd1ebf9479b61107fa5a6b5316d43c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-09 05:00:42</sys_created_on>
+        <sys_id>dde9a33547db61107fa5a6b5316d4386</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1889e8739110000001</sys_recorded_at>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:00:42</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>11e9a33561db6110639cc92ec7e8a986</update_guid>
+        <update_guid_history>11e9a33561db6110639cc92ec7e8a986:918535901</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Business Application Lifecycle Management.Onboard Resource">880a273547db61107fa5a6b5316d438e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-09 05:01:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>3750890b03174b0094a5bad4c2a24400</sys_id>
+        <sys_metadata>59e9a33547db61107fa5a6b5316d4382</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Onboard Resource</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_scope_delete display_value="">186d4690ec244fceb48aa29bdd077584</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_59e9a33547db61107fa5a6b5316d4382</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_59e9a33547db61107fa5a6b5316d4382">dde9a33547db61107fa5a6b5316d4386</sys_update_version>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:01:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

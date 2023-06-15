@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>GLIDE_FORM_1_SET_MANDATORY_RELAY_700be7b51fdb611060a62471d4016d70</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</label>
+        <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"mandatory","fieldType":"boolean","label":"Mandatory"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-09 05:05:38</sys_created_on>
+        <sys_id>b40be7b56adb6110d212a91e0ff24459</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_update_name>sys_ux_event_b40be7b56adb6110d212a91e0ff24459</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:05:38</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=b40be7b56adb6110d212a91e0ff24459"/>
+</record_update>

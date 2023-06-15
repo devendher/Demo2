@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Onboard new resource">b51aa73547db61107fa5a6b5316d43eb</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-09 05:02:54</sys_created_on>
+        <sys_id>216a677547db61107fa5a6b5316d436c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Onboard new resource</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_216a677547db61107fa5a6b5316d436c</sys_update_name>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:02:54</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</application>
+        <file_path/>
+        <instance_id>444227f3db4aa59042b321c405961994</instance_id>
+        <instance_name>aespipelinesdev</instance_name>
+        <name>sc_cat_item_catalog_216a677547db61107fa5a6b5316d436c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Onboard new resource">b51aa73547db61107fa5a6b5316d43eb</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>demo.user</sys_created_by><sys_created_on>2023-06-09 05:02:54</sys_created_on><sys_id>216a677547db61107fa5a6b5316d436c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Onboard new resource</sys_name><sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package><sys_policy/><sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope><sys_update_name>sc_cat_item_catalog_216a677547db61107fa5a6b5316d436c</sys_update_name><sys_updated_by>demo.user</sys_updated_by><sys_updated_on>2023-06-09 05:02:54</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1168913609</payload_hash>
+        <record_name>Service Catalog.Onboard new resource</record_name>
+        <reverted_from/>
+        <source>6cd1ebf9479b61107fa5a6b5316d43c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-09 05:02:54</sys_created_on>
+        <sys_id>e96a677547db61107fa5a6b5316d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1889e893e660000001</sys_recorded_at>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:02:54</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2d6a677573db6110055d6d47f5d39b6e</update_guid>
+        <update_guid_history>2d6a677573db6110055d6d47f5d39b6e:-1168913609</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Onboard new resource">e76aa77547db61107fa5a6b5316d439b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-09 05:03:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>375c0709c2d247b280dca89b11030d91</sys_id>
+        <sys_metadata>216a677547db61107fa5a6b5316d436c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Onboard new resource</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_parent display_value="Onboard new resource">b51aa73547db61107fa5a6b5316d43eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_scope_delete display_value="">186d4690ec244fceb48aa29bdd077584</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_216a677547db61107fa5a6b5316d436c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_216a677547db61107fa5a6b5316d436c">e96a677547db61107fa5a6b5316d436f</sys_update_version>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:03:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

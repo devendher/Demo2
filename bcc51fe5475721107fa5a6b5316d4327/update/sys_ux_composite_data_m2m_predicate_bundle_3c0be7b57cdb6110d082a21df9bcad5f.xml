@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">f00be7b53ddb6110a1622df7c163ed65</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">b80be7b51cdb61109caff40a6daced5e</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-09 05:05:37</sys_created_on>
+        <sys_id>3c0be7b57cdb6110d082a21df9bcad5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_3c0be7b57cdb6110d082a21df9bcad5f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:05:37</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

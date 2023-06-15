@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Onboard new resource">b51aa73547db61107fa5a6b5316d43eb</sc_cat_item>
+        <sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-09 05:03:38</sys_created_on>
+        <sys_id>549a6f7547db61107fa5a6b5316d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Onboard new resource</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_update_name>sc_cat_item_category_549a6f7547db61107fa5a6b5316d4304</sys_update_name>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:03:38</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

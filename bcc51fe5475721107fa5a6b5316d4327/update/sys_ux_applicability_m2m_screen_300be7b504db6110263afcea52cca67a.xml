@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">8d0be7b579db61109512e765a3faf782</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">7c0be7b589db6110c5fd82e5a2ffbd79</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-09 05:05:38</sys_created_on>
+        <sys_id>300be7b504db6110263afcea52cca67a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_300be7b504db6110263afcea52cca67a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-09 05:05:38</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>
