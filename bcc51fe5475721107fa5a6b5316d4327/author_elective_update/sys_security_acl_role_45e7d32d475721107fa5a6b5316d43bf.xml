@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-08 09:03:34</sys_created_on>
+        <sys_id>45e7d32d475721107fa5a6b5316d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_resource_o_0_res_assignment.x_snc_resource_o_0.admin</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_security_acl display_value="x_snc_resource_o_0_res_assignment">01e7d32d475721107fa5a6b5316d4372</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_45e7d32d475721107fa5a6b5316d43bf</sys_update_name>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-08 09:03:34</sys_updated_on>
+        <sys_user_role display_value="x_snc_resource_o_0.admin" name="x_snc_resource_o_0.admin">3cc51fe5475721107fa5a6b5316d435a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</application>
+        <file_path/>
+        <instance_id>444227f3db4aa59042b321c405961994</instance_id>
+        <instance_name>aespipelinesdev</instance_name>
+        <name>sys_security_acl_role_45e7d32d475721107fa5a6b5316d43bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>demo.user</sys_created_by><sys_created_on>2023-06-08 09:03:34</sys_created_on><sys_id>45e7d32d475721107fa5a6b5316d43bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_resource_o_0_res_assignment.x_snc_resource_o_0.admin</sys_name><sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package><sys_policy/><sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope><sys_security_acl display_value="x_snc_resource_o_0_res_assignment">01e7d32d475721107fa5a6b5316d4372</sys_security_acl><sys_update_name>sys_security_acl_role_45e7d32d475721107fa5a6b5316d43bf</sys_update_name><sys_updated_by>demo.user</sys_updated_by><sys_updated_on>2023-06-08 09:03:34</sys_updated_on><sys_user_role display_value="x_snc_resource_o_0.admin" name="x_snc_resource_o_0.admin">3cc51fe5475721107fa5a6b5316d435a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>837751263</payload_hash>
+        <record_name>x_snc_resource_o_0_res_assignment.x_snc_resource_o_0.admin</record_name>
+        <reverted_from/>
+        <source>3cc51fe5475721107fa5a6b5316d432b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>demo.user</sys_created_by>
+        <sys_created_on>2023-06-08 09:03:34</sys_created_on>
+        <sys_id>c9e7d32d475721107fa5a6b5316d43c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1889a3f370b0000001</sys_recorded_at>
+        <sys_updated_by>demo.user</sys_updated_by>
+        <sys_updated_on>2023-06-08 09:03:34</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>01e7d32d7e572110b137eeceff6592c1</update_guid>
+        <update_guid_history>01e7d32d7e572110b137eeceff6592c1:837751263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_resource_o_0_res_assignment.x_snc_resource_o_0.admin">d4d7849c47e321102d90a852736d4329</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-16 06:57:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>04973026fed24c5c81061dedb8b67e24</sys_id>
+        <sys_metadata>45e7d32d475721107fa5a6b5316d43bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_resource_o_0_res_assignment.x_snc_resource_o_0.admin</sys_name>
+        <sys_package display_value="Resource Onboarding" source="x_snc_resource_o_0">bcc51fe5475721107fa5a6b5316d4327</sys_package>
+        <sys_parent display_value="">01e7d32d475721107fa5a6b5316d4372</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Resource Onboarding">bcc51fe5475721107fa5a6b5316d4327</sys_scope>
+        <sys_scope_delete display_value="">186d4690ec244fceb48aa29bdd077584</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_45e7d32d475721107fa5a6b5316d43bf</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_45e7d32d475721107fa5a6b5316d43bf">c9e7d32d475721107fa5a6b5316d43c1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-16 06:57:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
